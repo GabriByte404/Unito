@@ -1,3 +1,3 @@
-#project 1b
+PROJECT 1B
 
 Progetto, in collaborazione, in C.
