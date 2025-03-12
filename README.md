@@ -1,6 +1,2 @@
-# Unito/ProgrammazioneII/Project_1.b
-Repository personale, dei progetti in C di programmazione II.
-
-# Esecuzione
-gcc 1_b.c -o
-./a.exe
+# Unito
+Repository contenente tutti i progetti legati alla cariera universitaria suddivisi per corso e sottoprogetti.
